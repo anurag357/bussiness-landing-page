@@ -1,4 +1,4 @@
-![Name](https://img.shields.io/badge/Name-Vikas%20kumar%20Taliyan-brightgreen)
+## Anurag Pathak
 
 ![Tech](https://img.shields.io/badge/Tech-CSS-yellowgreen)
 ![Tech](https://img.shields.io/badge/LCO-Iwritecode-orange)
